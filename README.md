@@ -4,10 +4,10 @@ MultiScreenShot
 This class allows WebDriver2.0 user to take multiple screenshots of pages and specific elements of a page (like button,search bar,) and also enable user to minimize the browser
 
 
-# About Developers
+## About Developers
 
-##   Pavankumar Nagaraj
-##
+###   Pavankumar Nagaraj
+
    Software Test Engineer
   
   <a href="pavankumar.nagaraj@gmail.com?Subject=MultiScreenShot %20GitHub" target="_top">pavankumar.nagaraj@gmail.com</a>
@@ -20,7 +20,7 @@ This class allows WebDriver2.0 user to take multiple screenshots of pages and sp
 
 --------------
 
-##   Vikas Kumar Singh
+###   Vikas Kumar Singh
 
  Senior Software Test Engineer
   
@@ -37,11 +37,11 @@ This class allows WebDriver2.0 user to take multiple screenshots of pages and sp
 This class helps the WebDriver 2.0 users to take multiple screenshots and element screenshots and mininimize the browser.
 
 
-## Constructor Details:
+### Constructor Details:
 This construtor accepts two argument one is the path where to save the screenshots
 public MultiScreenShot(String path,String className)
 
-#### Eg:
+##### Eg:
 path=C:\\Users\\xxxxxx\\Desktop\New folder\\TestMultiScreenShot_Screenshots\\
 
 and another argument is className,we are using this class name to create the folder and save the screenshot inside that.
@@ -51,25 +51,25 @@ className=MultiScreenShot
 
 
 ### Methods Details:
-#### public void multiScreenShot(WebDriver driver) throws IOException
+##### 1. public void multiScreenShot(WebDriver driver) throws IOException
 
 Takes the full screenshot of page whenever you call the method and this method accepts WebDriver object as argument
 
-#### Eg:
+##### Eg:
 ``` Java
 mShot.multiScreenShot(driver);
 ```
 
-#### public void elementScreenShot( WebDriver driver,WebElement element) throws IOException  
+##### 2. public void elementScreenShot( WebDriver driver,WebElement element) throws IOException  
 
 Takes the element screenshot in a page whenever you call the method and this method accepts 2 arguments one is WebDriver object as argument and another one is WebElement object,(i.e ) which element we want to take as screenshot
 
-#### Eg:
+##### Eg:
 ``` Java
 mShot.elementScreenShot(driver, driver.findElement(By.id("search-submit")));
 ```
 
-#### public void minimize() throws AWTException
+##### 3. public void minimize() throws AWTException
 
 This method minimizes the browser window if the browser is maximized on windows os,it does not accept any arguments
 
