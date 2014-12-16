@@ -31,6 +31,9 @@ This class allows WebDriver2.0 user to take multiple screenshots of pages and sp
   Mobile:+91 8123492801
   
   Bangalore.
+  
+# Download from here
+  ![image](https://cloud.githubusercontent.com/assets/10204148/5451604/d28a8ed0-8537-11e4-9c18-ff46d8235526.png)
 
 # MultiScreenShot
 
