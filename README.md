@@ -26,7 +26,7 @@ This class allows WebDriver2.0 user to take multiple screenshots of pages and sp
   
   <a href="mailto:mr.vikasdumka@gmail.com?Subject=MultiScreenShot %20GitHub" target="_top">mr.vikasdumka@gmail.com</a>
   
-  <a href="http://www.in.linkedin.com/pub/vikas-singh/85/b10/124/" target="_blank">Vikas Kumar Linkedin Profile </a>
+  <a href="http://in.linkedin.com/pub/vikas-singh/85/b10/124/" target="_blank">Vikas Kumar Linkedin Profile </a>
   
   
   Mobile:+91 8123492801
