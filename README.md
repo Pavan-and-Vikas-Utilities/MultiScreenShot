@@ -11,8 +11,8 @@ This class allows WebDriver2.0 user to take multiple screenshots of pages and sp
    Software Test Engineer
   
   <a href="pavankumar.nagaraj@gmail.com?Subject=MultiScreenShot %20GitHub" target="_top">pavankumar.nagaraj@gmail.com</a>
-  
-  <a href="in.linkedin.com/in/pavankumarnagaraj/">in.linkedin.com/in/pavankumarnagaraj/</a>
+
+  <a href="http://in.linkedin.com/in/pavankumarnagaraj/" target="_blank">Pavankumar Nagaraj Linkedin Profile</a>
   
   Mobile:+91 8971673487
   
@@ -26,7 +26,8 @@ This class allows WebDriver2.0 user to take multiple screenshots of pages and sp
   
   <a href="mailto:mr.vikasdumka@gmail.com?Subject=MultiScreenShot %20GitHub" target="_top">mr.vikasdumka@gmail.com</a>
   
-  <a href="in.linkedin.com/pub/vikas-singh/85/b10/124/">in.linkedin.com/pub/vikas-singh/85/b10/124/</a>
+  <a href="http://www.in.linkedin.com/pub/vikas-singh/85/b10/124/" target="_blank">Vikas Kumar Linkedin Profile </a>
+  
   
   Mobile:+91 8123492801
   
