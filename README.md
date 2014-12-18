@@ -1,20 +1,31 @@
 # About Developers
 
 ##   Pavankumar Nagaraj
+
    Software Test Engineer
+   
    <a href="pavankumar.nagaraj@gmail.com?Subject=MultiScreenShot %20GitHub" target="_top">pavankumar.nagaraj@gmail.com</a>
+   
   <a href="in.linkedin.com/in/pavankumarnagaraj/">Pavankumar Nagaraj Linkedin Profile</a>
+  
   Mobile:+91 8971673487
+  
   Bangalore.
 ![image](https://cloud.githubusercontent.com/assets/10204148/5486859/29c114ae-86d1-11e4-8ee2-980a0c3086d5.png)
 --------------
 
 ##   Vikas Kumar Singh
+
    Senior Software Test Engineer
+   
   <a href="mailto:mr.vikasdumka@gmail.com?Subject=MultiScreenShot %20GitHub" target="_top">mr.vikasdumka@gmail.com</a>
+  
   <a href="in.linkedin.com/pub/vikas-singh/85/b10/124/">Vikas Kumar Linkedin Profile</a>
+  
   Mobile:+91 8123492801
+  
   Bangalore.
+  
 ![image](https://cloud.githubusercontent.com/assets/10204148/5486910/97a7600e-86d1-11e4-9da8-6a0a59e2bc58.png)
 
 
